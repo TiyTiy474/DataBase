@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Data;
+using Microsoft.EntityFrameworkCore;
+//TODO:продажа сколько, что, когда, кто
+namespace DataBase
+{
+    
+}
+
